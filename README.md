@@ -7,6 +7,8 @@ One image per timestamp, generated with **GPT Image 2** (ChatGPT Image 2) via Hi
 
 All 50 timestamps from the script are covered below, in order. Each image links to the full-resolution PNG.
 
+**⬇️ Download everything at once:** [respawn-script-images.zip](https://d2ol7oe51mr4n9.cloudfront.net/user_36iIU2AbjaIraASL4dRifvTeOFb/6bad23cb-66f0-434a-aca7-42e79250331d.zip) (35 MB) — all 50 PNGs, each named after its timestamp (`0-00.png`, `0-01.png`, … `5-06.png`).
+
 ---
 
 ## 0:00 — "Respawn" (title)
