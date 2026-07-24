@@ -1,0 +1,28 @@
+name: fetch-images
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download images named by timestamp
+        run: |
+          mkdir -p images
+          while IFS=$'\t' read -r ts url; do
+            [ "$ts" = "timestamp" ] && continue
+            [ -z "$ts" ] && continue
+            fname=$(echo "$ts" | tr ':' '-')
+            curl -sf --retry 3 -o "images/$fname.png" "$url"
+          done < images.tsv
+          count=$(ls -1 images/*.png | wc -l)
+          echo "downloaded $count images"
+          [ "$count" -eq 50 ]
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images
+          git commit -m "Add timestamp-named image files"
+          git push
