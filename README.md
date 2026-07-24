@@ -66,7 +66,7 @@ All 50 timestamps from the script are covered below, in order. Each image links 
 ![1:48](https://d8j0ntlcm91z4.cloudfront.net/user_36iIU2AbjaIraASL4dRifvTeOFb/hf_20260724_062651_05ab4da1-5eaf-442d-ae53-79062151463b.png)
 
 ## 1:54 — "This was always the moment he died. There was no respawn button here."
-![1:54](https://d8j0ntlcm91z4.cloudfront.net/user_36iIU2AbjaIraASL4dRifvTeOFb/hf_20260724_062842_462001af-c293-40ee-841e-c1333f730175.png)
+![1:54](https://d8j0ntlcm91z4.cloudfront.net/user_36iIU2AbjaIraASL4dRifvTeOFb/hf_20260724_080525_b9a648e0-df1f-4840-b206-1f926ec057bd.png)
 
 ## 2:01 — Mara: "You're welcome. Now get up before the noise brings more of them."
 ![2:01](https://d8j0ntlcm91z4.cloudfront.net/user_36iIU2AbjaIraASL4dRifvTeOFb/hf_20260724_062633_bd379448-a83d-49e3-9cdb-8e8d521eba69.png)
